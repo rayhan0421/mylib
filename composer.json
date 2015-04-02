@@ -1,0 +1,20 @@
+{
+    "name": "rayhan",
+    
+ "autoload": {
+     
+        "psr-4":{
+            "Codecourse\\":"app/Codecourse"
+        }     
+         
+     
+ },
+
+"require": {
+        "monolog/monolog": "1.0.0",
+		"irmnet/financeiro": "dev-master"
+    }
+}
+
+
+ 
